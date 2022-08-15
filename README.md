@@ -1,1 +1,1 @@
-Practicando Python con Django
+Practicando Python con Django, SQLite3
